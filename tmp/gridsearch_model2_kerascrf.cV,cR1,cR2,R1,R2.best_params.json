@@ -1,0 +1,1 @@
+{"batch_size": 150, "dropout_rate": 0.26481671702064186, "optimizer": "adam", "use_postagger": false, "w2v_name": "w2v.CBOW=1_WIN=5_DIM=64.bin", "nb_rnn": 1, "net_arch": "crf", "rnn_units1": 160}

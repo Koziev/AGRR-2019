@@ -1,0 +1,1 @@
+{"units1": 145, "dropout_rate": 0.5621597007623073, "units2": 12, "optimizer": "nadam", "net_arch": "lstm", "batch_size": 200, "repres": "words", "use_postagger": false, "activation2": "sigmoid", "w2v_name": "w2v.CBOW=1_WIN=5_DIM=64", "normalization": ""}
